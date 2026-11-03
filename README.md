@@ -6,7 +6,7 @@
 ---
 
 
-## 🧠 About Me
+## About Me
 
 - Mobile Developer with focus on **Flutter & Android**
 - Experience in **Fullstack Development (JS + SQL)**
@@ -16,20 +16,20 @@
 ---
 
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,js,react,sqlite,mysql,unity,cs,git,github" />
 </p>
 
 
-## 🔥 Featured Projects
+## Featured Projects
 
 - 🧭 **Traveler** – 3D world from OpenStreetMap + real-time location tracking  
 - 🎮 **Unity VR Projects** – Interactive mechanics & game concepts  
 - 📱 **Flutter Apps** – Clean UI, scalable architecture  
 
-## 📊 GitHub Insights
+## GitHub Insights
 
 <p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamajanaSk&layout=compact&theme=tokyonight&langs_count=6&hide=c,cpp,c%2B%2B,csharp,hlsl,html,css,cmake" height="150"/>
